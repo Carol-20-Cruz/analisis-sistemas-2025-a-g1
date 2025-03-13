@@ -1,12 +1,12 @@
 ¿QUÈ ES DESIGN THINKING?
 
-*Introducción
+*INTRODUCCIÓN
 
 -Este curso le ayudará a entender el planteamiento  Design Thinking como enfoque para la resolución de problemas. En el curso se tratan aspectos relacionados con la terminología, los conceptos y la aplicación de Design Thinking, incluidos temas como el diseño centrado en las personas, la creación de prototipos, las claves y el circuito.
 
 -¡Vamos a empezar con una introducción rápida a Enterprise Design Thinking con IBM! Al final de este curso encontrará un cuestionario para evaluar sus conocimientos.
 
-*Resoluciòn De Problemas Creativa 
+*RESOLUCIÓN DE PROBLEMAS CREATIVA 
 
 -Design Thinking es una metodología para la resolución de problemas creativa. (Una “metodología” significa algo más que simplemente describir la ejecución de algo. También incluye cómo se ejecuta, y por qué.)
 
@@ -14,15 +14,15 @@
 
 -En IBM, Enterprise Design Thinking es el marco que permite ofrecer excelentes experiencias de usuario a nuestros clientes.
 
-*¿En què consiste la empatìa?
+*¿EN QUE CONSISTE LA EMPATIA?
 
 -La empatía es el primer paso en Design Thinking porque nos permite comprender y compartir los mismos sentimientos que sienten los demás. A través de la empatía, podemos ponernos en el lugar de otras personas y conectar con la forma en que podrían sentirse en relación con su problema, circunstancia o situación. Una gran parte de Design Thinking se centra en el impacto que el pensamiento innovador tiene en las personas.
 
-*El diseño centrado en el ususario
+*EL DISEÑO CENTRADO EN EL USUARIO 
 
 -El diseño como disciplina profesional ha experimentado una tremenda evolución, para pasar de ser una práctica centrada en el estilo estético a otra centrada en los usuarios y sus esperanzas, deseos, retos y necesidades. El “usuario” puede ser una persona o un grupo de personas que usan un producto o servicio. Al establecer empatía con el usuario, los diseñadores pueden trabajar de cara a la obtención de unos resultados que satisfagan las necesidades de manera más efectiva.
 
-*Adopte los principios, el circuito y las claves 
+*ADOPTE LOS PRINCIPIOS, EL CIRCUITO Y LAS CLAVES  
 
 -Los principios son la guía para usted y su equipo
 Vea los problemas y las soluciones en forma de conversación continua.
@@ -36,7 +36,7 @@ Reinvención sin descanso
 Equipos diversos y empoderados
 Los equipos diversos generan más ideas que los equipos en los que todo el mundo piensa igual, porque las diferentes perspectivas aportan ideas diferentes y aumentan las posibilidades de llegar a conclusiones revolucionarias. La diversidad de miembros también debería capacitar a un equipo con la experiencia y la autoridad suficientes para convertir ideas en resultados.
 
-*Design Thinking
+*DESIGN THINKING 
 
 Puntos de partida clave
 
