@@ -29,10 +29,10 @@ Design Thinking proporciona una forma estructurada de:
 Design Thinking ayuda a sobresalir en la comprensión de las personas, así que elija algún aspecto en el cual las personas tengan relevancia.
 
 🧠 Mejora la comprensión de las personas
+
 🎯 Practica en entornos donde la empatía es clave
+
 🤝 Colabora y resuelve problemas de manera creativa
-
-
 
 
 [Habilidades](ING/Terminado.png)
