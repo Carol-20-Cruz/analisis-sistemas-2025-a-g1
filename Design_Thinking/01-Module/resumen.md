@@ -35,12 +35,15 @@
 Vea los problemas y las soluciones en forma de conversación continua.
 
 ✅Un enfoque en los resultados del usuario
+
 ✔️Priorice las necesidades de las personas que utilizarán su solución. El éxito no se mide por las características y las funciones; se mide por lo bien que satisfacemos las necesidades de los usuarios.
 
 ✅Reinvención sin descanso
+
 ✔️¡Todo es un prototipo! Todo, incluso los productos y las soluciones ya existentes. Si pensamos en todo como una simple repetición de algo anterior, podemos aportar nuevas ideas incluso a los problemas más antiguos.
 
 ✅Equipos diversos y empoderados
+
 ✔️Los equipos diversos generan más ideas que los equipos en los que todo el mundo piensa igual, porque las diferentes perspectivas aportan ideas diferentes y aumentan las posibilidades de llegar a conclusiones revolucionarias. La diversidad de miembros también debería capacitar a un equipo con la experiencia y la autoridad suficientes para convertir ideas en resultados.
 
 🚀DESIGN THINKING 
@@ -50,7 +53,9 @@ Vea los problemas y las soluciones en forma de conversación continua.
 ✔️Design Thinking incluye tres principios: centrarse en los resultados del usuario, empoderar a equipos diversos y reinventar sin descanso:
 
 ✅ Centrarse en los resultados del usuario
+
 ✅ Empoderar a equipos diversos
+
 ✅ Reinvención sin descanso
 
 ✔️Design Thinking utiliza el circuito para comprender continuadamente las necesidades de los usuarios y ofrecer resultados. Los equipos usan el circuito para tratar deresolver un problema indeterminado mientras observan, reflexionan y crean.
